@@ -6,3 +6,5 @@ A repository in my assistant career
 
 - 计算方法（数值计算方法）Numerical Method
 - 待开发 waiting
+
+有任何问题可以随时和我联系，我的邮箱是`bcynuaa@163.com`。
