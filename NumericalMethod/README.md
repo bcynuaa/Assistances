@@ -8,3 +8,14 @@
 2. `hw2`：非线性方程求解章节作业内容，包含了迭代计算的`C`语言程序，以及第二次作业的计算笔记本`hw2-tak2.ipynb`；
 3. `hw3`：线性方程组求解章节作业内容，包含了第一次作业的计算笔记本`hw3-task1.ipynb`；
 4. ...待完成
+
+# requirement
+
+为了运行`jupyter`笔记本请确保本地有`python`环境，并有包如下。
+
+- `numpy`
+- `matplotlib`
+- `jupyter-noetebook`
+- `jupyter-lab`
+- `sympy`
+- `scipy`
